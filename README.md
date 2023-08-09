@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftiegz-test%2Fdollaraday_template.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftiegz-test%2Fdollaraday_template?ref=badge_shield)
+
 ### Daily Donation Rails Webapp
 
 *(open-sourced by Dollar a Day on October 30th, 2015)*
@@ -163,3 +165,7 @@ GIFT
 * Auto-create an Email record after we deliver emails, instead of manually doing it each time
 * Other TODOs scattered around the app
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftiegz-test%2Fdollaraday_template.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftiegz-test%2Fdollaraday_template?ref=badge_large)
